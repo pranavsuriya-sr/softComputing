@@ -1,0 +1,11 @@
+numpy
+streamlit
+seaborn
+matplotlib
+plotly
+pandas
+scikit-learn
+schemdraw
+sympy
+scipy
+scikit-fuzzy

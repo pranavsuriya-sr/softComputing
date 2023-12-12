@@ -273,3 +273,22 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+st.markdown(
+    '<div style="text-align:center; margin-top: 42px">'
+    '<a href = "https://pranavsuriya-sr.github.io/personalPortfolio/" style = "text-decoration: none;" ><p style="font-size: 10px;">PranavSuriya Devs © 2023 Project Hack Community.</a></p>'
+    '<p style="font-size: 10px;">Open Source rights reserved.</p>'
+    '</div>',
+    unsafe_allow_html=True
+)
+
+st.sidebar.markdown(
+    '<div style="text-align:center; margin-top: 42px">'
+    '<a href = "https://pranavsuriya-sr.github.io/personalPortfolio/" style = "text-decoration: none;" ><p style="font-size: 10px;">PranavSuriya Devs © 2023 Project Hack Community.</a></p>'
+    '<p style="font-size: 10px;">Open Source rights reserved.</p>'
+        '<p style="font-size: 10px;">Nikil SenthilKumar</p>'
+    '<p style="font-size: 10px;">Jairam Vikkranth</p>'
+    '<p style="font-size: 10px;">Sanraj S</p>'
+    '</div>',
+    unsafe_allow_html=True
+)
